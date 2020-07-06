@@ -1,5 +1,7 @@
 # DIGHUM101-Individual-and-Group-Repository
 
+Kevin S. Lee, July 5, 2020.
+
 ## DIGHUM101 - FROM CRITIQUING BIG DATA TO APPLICATIONS IN POPULATION GENETICS: THEIR IMPLICATIONS IN THE HUMANITIES FIELDS.
 
 ![alt text](https://www.yamaha.com/en/musical_instrument_guide/common/images/piano/structure_main.jpg)
